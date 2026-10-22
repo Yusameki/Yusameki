@@ -29,7 +29,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
-| [**ENAC_eyehand_calibration**](https://github.com/Yusameki/ENAC_eyehand_calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
+| [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu 上装 ROCm、用 Docker 让 PyTorch 跑 AMD GPU 的记录 |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |
 | [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | 在 Win10 上用 Git Bash 配一套顺手的 Python 环境 |
