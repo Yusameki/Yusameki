@@ -2,7 +2,7 @@
 
 # こんにちは、Meki です 🌧️
 
-**Meki Yusa · 慶應義塾大学 Aoki Media Lab**
+**Meki Yusa**
 
 <sub>做点计算机视觉、3D 感知、偶尔写写笔记</sub>
 <sub>With Aina.</sub>
@@ -23,7 +23,7 @@
 
 - 🔬 **3D 视觉 / 手眼标定** —— 机械臂和 3D 扫描仪互相认识一下
 - ☁️ **时序预测** —— 拿 ConvLSTM 推卫星云图
-- 📓 **慢慢补基础** —— PyTorch、Docker，属于「知道要用但一直没系统学」的那类
+- 📓 **玩玩大肥鱼** —— PyTorch，Docker，DeepSeek Harness
 
 ## 几个仓库
 
@@ -31,7 +31,7 @@
 | --- | --- |
 | [**ENAC_eyehand_calibration**](https://github.com/Yusameki/ENAC_eyehand_calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu 上装 ROCm、用 Docker 让 PyTorch 跑 AMD GPU 的记录 |
-| [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测 Himawari-8 红外云图 |
+| [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |
 | [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | 在 Win10 上用 Git Bash 配一套顺手的 Python 环境 |
 | [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | 学 Docker 的一点记录 |
 | [**pytorch-practice**](https://github.com/Yusameki/pytorch-practice) | 跟 DEEPLIZARD 过 PyTorch 的笔记（施工中） |
@@ -53,6 +53,6 @@
 
 <div align="center">
 
-<sub>大部分时候在实验室，偶尔在这里 ( ¯꒳¯ )</sub>
+<sub>大部分时候在书房，偶尔在这里 ( ¯꒳¯ )</sub>
 
 </div>
