@@ -1,10 +1,12 @@
 <div align="center">
 
-# こんにちは、Mekiです 🌧️
+# こんにちは、Meki です 🌧️
 
-**遊佐芽季**
+**Meki Yusa**
 
-<sub>做点计算机视觉、3D 感知、偶尔写写笔记</sub>
+<sub>**English** · [日本語](README.ja.md) · [中文](README.zh-CN.md)</sub>
+
+<sub>Computer vision, 3D perception, and the occasional write-up</sub>
 <sub>With Aina.</sub>
 
 </div>
@@ -19,24 +21,23 @@
 
 ---
 
-## 在做什么
+## What I'm up to
 
-- 📓 **玩玩大肥鱼** —— PyTorch，Docker，DeepSeek Harness
-- 🔬 **3D 视觉 / 手眼标定** —— 机械臂和 3D 扫描仪互相认识一下
-- ☁️ **时序预测** —— 拿 ConvLSTM 推卫星云图
+- 🔬 **3D vision / hand-eye calibration** — getting robot arms and 3D scanners to know each other
+- ☁️ **Time-series forecasting** — pushing satellite cloud imagery through ConvLSTM
+- 📓 **Tinkering with a big fish** — PyTorch, Docker, DeepSeek Harness
 
+## A few repositories
 
-## 几个仓库
-
-| 仓库 | 说明 |
+| Repository | What it is |
 | --- | --- |
-| [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
-| [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu 上装 ROCm、用 Docker 让 PyTorch 跑 AMD GPU 的记录 |
-| [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |
-| [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | 在 Win10 上用 Git Bash 配一套顺手的 Python 环境 |
-| [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | 学 Docker 的一点记录 |
+| [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | Hand-eye calibration in HALCON, Photoneo PhoXi + calibration sphere, with full point cloud and pose data |
+| [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Installing ROCm on Ubuntu and running PyTorch on an AMD GPU via Docker |
+| [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM forecasting of infrared imagery |
+| [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | A comfortable Python setup on Win10 with Git Bash |
+| [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | Notes from learning Docker |
 
-## 常用工具
+## Tools I use
 
 <div align="center">
 
@@ -53,6 +54,6 @@
 
 <div align="center">
 
-<sub>大部分时候在书房，偶尔在这里 ( ¯꒳¯ )</sub>
+<sub>Mostly in the study, occasionally here ( ¯꒳¯ )</sub>
 
 </div>
