@@ -36,7 +36,6 @@
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |
 | [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | 在 Win10 上用 Git Bash 配一套顺手的 Python 环境 |
 | [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | 学 Docker 的一点记录 |
-| [**pytorch-practice**](https://github.com/Yusameki/pytorch-practice) | 跟 DEEPLIZARD 过 PyTorch 的笔记（施工中） |
 
 ## 常用工具
 
