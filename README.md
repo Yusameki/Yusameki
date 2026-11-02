@@ -31,6 +31,7 @@
 
 | Repository | What it is |
 | --- | --- |
+| [**dsh-local-fullstack-128k**](https://github.com/Yusameki/dsh-local-fullstack-128k) | 🆕 Turning a consumer machine (32GB RAM / 12GB VRAM) into a 128K-context local Agent workstation — 2.1K tool budget, persistent memory, on-demand engine proxy |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | Hand-eye calibration in HALCON, Photoneo PhoXi + calibration sphere, with full point cloud and pose data |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Installing ROCm on Ubuntu and running PyTorch on an AMD GPU via Docker |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM forecasting of infrared imagery |

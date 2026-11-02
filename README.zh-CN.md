@@ -31,6 +31,7 @@
 
 | 仓库 | 说明 |
 | --- | --- |
+| [**dsh-local-fullstack-128k**](https://github.com/Yusameki/dsh-local-fullstack-128k) | 🆕 把一台 32GB 内存 / 12GB 显存的消费级机器，调成 128K 上下文的本地 Agent 工作站 —— 2.1K 工具开销、长效记忆、引擎按需起停 |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu 上装 ROCm、用 Docker 让 PyTorch 跑 AMD GPU 的记录 |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |
