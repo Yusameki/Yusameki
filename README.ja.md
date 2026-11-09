@@ -25,13 +25,13 @@
 
 - 🔬 **3D ビジョン / ハンドアイキャリブレーション** —— ロボットアームと 3D スキャナに仲良くなってもらう
 - ☁️ **時系列予測** —— 衛星の雲画像を ConvLSTM に通しています
-- 📓 **大きな魚をいじる** —— PyTorch、Docker、DeepSeek Harness
+- 📓 **大きな魚をいじる** —— PyTorch、Docker、DeepSeek Harness、それに ComfyUI での画像生成
 
 ## リポジトリ
 
 | リポジトリ | 内容 |
 | --- | --- |
-| [**dsh-local-fullstack-128k**](https://github.com/Yusameki/dsh-local-fullstack-128k) | 🆕 32GB メモリ / 12GB VRAM のコンシューマ機を、128K コンテキストのローカル Agent ワークステーションに —— 2.1K のツール予算、永続メモリ、エンジンのオンデマンド起動・停止 |
+| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 🆕 64GB メモリ / 12GB VRAM のコンシューマ機を、完全ローカルの Agent ワークステーションに —— Gyro-M で 256K コンテキスト、2.1K のツール予算、永続メモリ、エンジンのオンデマンド起動・停止、さらに同じ GPU 上で ComfyUI の画像生成を時分割で併用 |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON によるハンドアイキャリブレーション。Photoneo PhoXi + キャリブレーション球、点群と姿勢データ一式 |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu に ROCm を入れて、Docker 経由で AMD GPU 上の PyTorch を動かす記録 |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM で赤外画像を予測 |

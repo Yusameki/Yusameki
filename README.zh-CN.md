@@ -25,13 +25,13 @@
 
 - 🔬 **3D 视觉 / 手眼标定** —— 机械臂和 3D 扫描仪互相认识一下
 - ☁️ **时序预测** —— 拿 ConvLSTM 推卫星云图
-- 📓 **玩玩大肥鱼** —— PyTorch，Docker，DeepSeek Harness
+- 📓 **玩玩大肥鱼** —— PyTorch，Docker，DeepSeek Harness，还有 ComfyUI 生图
 
 ## 几个仓库
 
 | 仓库 | 说明 |
 | --- | --- |
-| [**dsh-local-fullstack-128k**](https://github.com/Yusameki/dsh-local-fullstack-128k) | 🆕 把一台 32GB 内存 / 12GB 显存的消费级机器，调成 128K 上下文的本地 Agent 工作站 —— 2.1K 工具开销、长效记忆、引擎按需起停 |
+| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 🆕 把一台 64GB 内存 / 12GB 显存的消费级机器，调成全本地 Agent 工作站 —— Gyro-M 跑 256K 上下文、2.1K 工具开销、长效记忆、引擎按需起停，同一张显卡上还分时复用 ComfyUI 生图 |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu 上装 ROCm、用 Docker 让 PyTorch 跑 AMD GPU 的记录 |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |

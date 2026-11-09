@@ -25,13 +25,13 @@
 
 - 🔬 **3D vision / hand-eye calibration** — getting robot arms and 3D scanners to know each other
 - ☁️ **Time-series forecasting** — pushing satellite cloud imagery through ConvLSTM
-- 📓 **Tinkering with a big fish** — PyTorch, Docker, DeepSeek Harness
+- 📓 **Tinkering with a big fish** — PyTorch, Docker, DeepSeek Harness, and ComfyUI for image generation
 
 ## A few repositories
 
 | Repository | What it is |
 | --- | --- |
-| [**dsh-local-fullstack-128k**](https://github.com/Yusameki/dsh-local-fullstack-128k) | 🆕 Turning a consumer machine (32GB RAM / 12GB VRAM) into a 128K-context local Agent workstation — 2.1K tool budget, persistent memory, on-demand engine proxy |
+| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 🆕 A 64GB RAM / 12GB VRAM consumer box turned into a fully local Agent workstation — Gyro-M at 256K context, 2.1K tool budget, persistent memory, on-demand engine start/stop, and ComfyUI image generation time-shared on the same GPU |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | Hand-eye calibration in HALCON, Photoneo PhoXi + calibration sphere, with full point cloud and pose data |
 | [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Installing ROCm on Ubuntu and running PyTorch on an AMD GPU via Docker |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM forecasting of infrared imagery |
