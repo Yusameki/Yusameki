@@ -29,7 +29,7 @@
 
 - 🔬 **3D vision / hand-eye calibration** — getting robot arms and 3D scanners to know each other
 - ☁️ **Time-series forecasting** — pushing satellite cloud imagery through ConvLSTM
-- 📓 **Tinkering with a big fish** — PyTorch, Docker, DeepSeek Harness, and ComfyUI for image generation
+- 🌍 **Exploring the world with Aina** — local generative tooling on a 12 GB box, from images toward animation, music, and whatever comes next
 
 ## A few repositories
 
