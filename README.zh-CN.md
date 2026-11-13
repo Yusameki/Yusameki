@@ -15,7 +15,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusameki&hide=contribs,prs,stars&show_icons=true&theme=dracula)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYusameki&query=%24.public_repos&label=Public%20repos&color=8b5cf6&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Yusameki?style=for-the-badge&label=Followers&color=6272a4&logo=github&logoColor=white)
+![Commits / year](https://img.shields.io/github/commit-activity/y/Yusameki?label=Commits%20%2F%20year&style=for-the-badge&color=2ea44f&logo=git&logoColor=white)
 
 </div>
 
@@ -31,12 +33,10 @@
 
 | 仓库 | 说明 |
 | --- | --- |
-| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 🆕 把一台 64GB 内存 / 12GB 显存的消费级机器，调成全本地 Agent 工作站 —— Gyro-M 跑 256K 上下文、2.1K 工具开销、长效记忆、引擎按需起停，同一张显卡上还分时复用 ComfyUI 生图 |
+| [**Local_Image_with_Aina**](https://github.com/Yusameki/Local_Image_with_Aina) | 🆕 SDXL 参数基线、12GB 显卡上从零跑通 MOSS-Image 的部署记录，以及 LoRA 炼丹实录 — Project_Aina 的第一步 |
+| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 把一台 64GB 内存 / 12GB 显存的消费级机器，调成全本地 Agent 工作站 —— Gyro-M 跑 256K 上下文、2.1K 工具开销、长效记忆、引擎按需起停，同一张显卡上还分时复用 ComfyUI 生图 |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON 做的手眼标定，Photoneo PhoXi + 标定球，含完整点云与位姿数据 |
-| [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu 上装 ROCm、用 Docker 让 PyTorch 跑 AMD GPU 的记录 |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM 预测红外图 |
-| [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | 在 Win10 上用 Git Bash 配一套顺手的 Python 环境 |
-| [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | 学 Docker 的一点记录 |
 
 ## 常用工具
 
