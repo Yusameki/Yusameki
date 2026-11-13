@@ -15,7 +15,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusameki&hide=contribs,prs,stars&show_icons=true&theme=dracula)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYusameki&query=%24.public_repos&label=Public%20repos&color=8b5cf6&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Yusameki?style=for-the-badge&label=Followers&color=6272a4&logo=github&logoColor=white)
+![Commits / year](https://img.shields.io/github/commit-activity/y/Yusameki?label=Commits%20%2F%20year&style=for-the-badge&color=2ea44f&logo=git&logoColor=white)
 
 </div>
 
@@ -31,12 +33,10 @@
 
 | Repository | What it is |
 | --- | --- |
-| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 🆕 A 64GB RAM / 12GB VRAM consumer box turned into a fully local Agent workstation — Gyro-M at 256K context, 2.1K tool budget, persistent memory, on-demand engine start/stop, and ComfyUI image generation time-shared on the same GPU |
+| [**Local_Image_with_Aina**](https://github.com/Yusameki/Local_Image_with_Aina) | 🆕 SDXL parameter baselines, a from-scratch MOSS-Image deployment on a 12 GB card, and a LoRA training log — the first step of Project_Aina |
+| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | A 64GB RAM / 12GB VRAM consumer box turned into a fully local Agent workstation — Gyro-M at 256K context, 2.1K tool budget, persistent memory, on-demand engine start/stop, and ComfyUI image generation time-shared on the same GPU |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | Hand-eye calibration in HALCON, Photoneo PhoXi + calibration sphere, with full point cloud and pose data |
-| [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Installing ROCm on Ubuntu and running PyTorch on an AMD GPU via Docker |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM forecasting of infrared imagery |
-| [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | A comfortable Python setup on Win10 with Git Bash |
-| [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | Notes from learning Docker |
 
 ## Tools I use
 
