@@ -15,7 +15,9 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yusameki&hide=contribs,prs,stars&show_icons=true&theme=dracula)
+![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYusameki&query=%24.public_repos&label=Public%20repos&color=8b5cf6&style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Yusameki?style=for-the-badge&label=Followers&color=6272a4&logo=github&logoColor=white)
+![Commits / year](https://img.shields.io/github/commit-activity/y/Yusameki?label=Commits%20%2F%20year&style=for-the-badge&color=2ea44f&logo=git&logoColor=white)
 
 </div>
 
@@ -31,12 +33,10 @@
 
 | リポジトリ | 内容 |
 | --- | --- |
-| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 🆕 64GB メモリ / 12GB VRAM のコンシューマ機を、完全ローカルの Agent ワークステーションに —— Gyro-M で 256K コンテキスト、2.1K のツール予算、永続メモリ、エンジンのオンデマンド起動・停止、さらに同じ GPU 上で ComfyUI の画像生成を時分割で併用 |
+| [**Local_Image_with_Aina**](https://github.com/Yusameki/Local_Image_with_Aina) | 🆕 SDXL のパラメータ基準、12GB の GPU に MOSS-Image をゼロから導入した記録、そして LoRA 学習ログ — Project_Aina の第一歩 |
+| [**dsh-local-fullstack-256k-comfyui**](https://github.com/Yusameki/dsh-local-fullstack-256k-comfyui) | 64GB メモリ / 12GB VRAM のコンシューマ機を、完全ローカルの Agent ワークステーションに —— Gyro-M で 256K コンテキスト、2.1K のツール予算、永続メモリ、エンジンのオンデマンド起動・停止、さらに同じ GPU 上で ComfyUI の画像生成を時分割で併用 |
 | [**eye-to-hand-calibration**](https://github.com/Yusameki/eye-to-hand-calibration) | HALCON によるハンドアイキャリブレーション。Photoneo PhoXi + キャリブレーション球、点群と姿勢データ一式 |
-| [**AMD-PyTorch**](https://github.com/Yusameki/AMD-PyTorch) | Ubuntu に ROCm を入れて、Docker 経由で AMD GPU 上の PyTorch を動かす記録 |
 | [**cloud**](https://github.com/Yusameki/cloud) | Keras ConvLSTM で赤外画像を予測 |
-| [**win10-gitbash**](https://github.com/Yusameki/win10-gitbash) | Win10 で Git Bash を使って快適な Python 環境を組む |
-| [**LearningDocker**](https://github.com/Yusameki/LearningDocker) | Docker を学んだときのメモ |
 
 ## よく使うもの
 
