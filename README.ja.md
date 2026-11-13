@@ -15,9 +15,11 @@
 
 <div align="center">
 
-![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYusameki&query=%24.public_repos&label=Public%20repos&color=8b5cf6&style=for-the-badge&logo=github&logoColor=white)
-![Followers](https://img.shields.io/github/followers/Yusameki?style=for-the-badge&label=Followers&color=6272a4&logo=github&logoColor=white)
-![Commits / year](https://img.shields.io/github/commit-activity/y/Yusameki?label=Commits%20%2F%20year&style=for-the-badge&color=2ea44f&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=900&color=BD93F9&center=true&vCenter=true&width=520&lines=Computer+vision+%C2%B7+3D+perception;Hand-eye+calibration+%26+point+clouds;Local+generative+tooling+on+a+12GB+box;With+Aina" alt="typing" />
+
+![Profile views](https://komarev.com/ghpvc/?username=Yusameki&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Yusameki&theme=dracula&hide_border=true&date_format=Y.n.j)](https://git.io/streak-stats)
 
 </div>
 
